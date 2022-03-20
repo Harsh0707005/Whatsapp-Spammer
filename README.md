@@ -3,6 +3,12 @@ Ever wanted to Irritate your friends with tons of back to back messages?
 <br>
 Try this script to send spam messages to friends/family for fun.
 <br>
+# Usage:
+Just run the program and follow on-screen instructions and Voilà...
+<br>
+<br>
+<img src = '/image.png/' alt = 'On-Screen instructions'>
+<br>
 # There are two types of Spammer:
 <ul>
   <li> One, if you wish to send messages directly via Whatsapp Web (here, you'll need to wait for a couple of seconds for the process to complete), or </li>
